@@ -1,0 +1,2 @@
+cat .aws/credentials
+export AWS_PROFILE=default
